@@ -3,8 +3,6 @@
 Ein modernes, voll ausgestattetes Website-Template für FiveM Roleplay Server. Entwickelt mit Laravel 11, TailwindCSS und Alpine.js. 
 Dieses Template ist **kostenlos** und kann frei verwendet werden, um deinem Server einen professionellen Webauftritt zu verleihen.
 
-[![Preview](public/img/hero-bg.jpg)](https://demo-fivem.zm0kie.de)
-
 > **Live Demo:** [https://demo-fivem.zm0kie.de](https://demo-fivem.zm0kie.de)
 
 ## 🚀 Features
