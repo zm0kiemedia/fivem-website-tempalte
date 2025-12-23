@@ -5,10 +5,6 @@ Dieses Template ist **kostenlos** und kann frei verwendet werden, um deinem Serv
 
 > **Live Demo:** [https://demo-fivem.zm0kie.de](https://demo-fivem.zm0kie.de)
 
-## 🚀 Features
-
-## 🚀 Features
-
 ## 📸 Screenshots
 
 | Hero Sektion | Live Stats | Admin Panel |
