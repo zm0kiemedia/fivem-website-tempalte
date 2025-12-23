@@ -9,21 +9,22 @@ Dieses Template ist **kostenlos** und kann frei verwendet werden, um deinem Serv
 
 ## 🚀 Features
 
+## 📸 Screenshots
+
+| Hero Sektion | Live Stats | Admin Panel |
+| :---: | :---: | :---: |
+| ![Hero](public/img/screenshots/home-hero.png) | ![Stats](public/img/screenshots/home-stats.png) | ![Admin](public/img/screenshots/admin.png) |
+
+## 🚀 Features
+
 *   **Modernes Design**: Dark Mode, Glassmorphism-Effekte und responsive Layouts.
 *   **Custom Admin Panel**: Volle Verwaltung der Inhalte ohne Filament-Abhängigkeit für Content.
-
-### Einblicke
-
-| Fraktionen | Wirtschaft | Tuning |
-| :---: | :---: | :---: |
-| ![Fraktionen](public/img/features/fraktionen.png) | ![Wirtschaft](public/img/features/wirtschaft.png) | ![Tuning](public/img/features/tuning.png) |
-
-*   **News System**: Verfasse Updates mit Bildern und Slugs.
-*   **Team Seite**: Verwalte Teammitglieder mit Rängen (Admin, Mod, etc.).
-*   **Galerie**: Lade Server-Bilder hoch (inkl. Lightbox).
-*   **Regelwerk**: Bearbeitbare Regeln mit Kategorien.
-*   **Benutzerverwaltung**: Erstelle und verwalte Admin-Accounts.
-*   **Server Status**: Live-Anzeige der Spielerzahlen (konfigurierbar).
+    *   **News System**: Verfasse Updates mit Bildern und Slugs.
+    *   **Team Seite**: Verwalte Teammitglieder mit Rängen (Admin, Mod, etc.).
+    *   **Galerie**: Lade Server-Bilder hoch (inkl. Lightbox).
+    *   **Regelwerk**: Bearbeitbare Regeln mit Kategorien.
+    *   **Benutzerverwaltung**: Erstelle und verwalte Admin-Accounts.
+    *   **Server Status**: Live-Anzeige der Spielerzahlen (konfigurierbar).
 *   **Bewerbungssystem**: Integriertes Formular für Whitelist/Fraktionen.
 *   **Ticket System**: Support-Tickets direkt über die Webseite.
 *   **SEO Optimiert**: Saubere URLs und Meta-Tags.
