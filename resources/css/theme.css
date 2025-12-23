@@ -1,0 +1,29 @@
+/* Dynamic Theme Color Overrides */
+
+/* This file is generated dynamically based on admin settings */
+/* Use Tailwind's JIT to generate theme classes on demand */
+
+.text-theme {
+    @apply text-[var(--theme-primary)];
+}
+
+.bg-theme {
+    @apply bg-[var(--theme-primary)];
+}
+
+.border-theme {
+    @apply border-[var(--theme-primary)];
+}
+
+.hover\:text-theme:hover {
+    @apply text-[var(--theme-primary)];
+}
+
+.hover\:bg-theme:hover {
+    @apply bg-[var(--theme-primary)];
+}
+
+/* Gradient utilities */
+.bg-gradient-theme {
+    background: linear-gradient(to right, var(--theme-primary), var(--theme-secondary));
+}
